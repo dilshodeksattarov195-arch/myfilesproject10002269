@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssonnect",
+        "uuid": 10491856,
+        "checksum": "7igum"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
